@@ -54,7 +54,7 @@ data "aws_iam_policy_document" "website_codebuild_cloudwatch" {
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_policy_helper"></a> [policy\_helper](#module\_policy\_helper) | git@github.com:TechNative-B-V/terraform-aws-module-iam-policy-helper.git | ced5ee6d207f723d802b65374804ca7e123f175e |
+| <a name="module_policy_helper"></a> [policy\_helper](#module\_policy\_helper) | git@github.com:wearetechnative/terraform-aws-iam-helper | b5e28f28c11fd0f5733f0a0c8ad212bed4b99ff6 |
 
 ## Resources
 
