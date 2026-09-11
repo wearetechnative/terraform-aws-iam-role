@@ -1,4 +1,4 @@
-# Terraform AWS [iam-role]
+# Terraform AWS [iam-role] ![](https://img.shields.io/github/actions/workflow/status/wearetechnative/terraform-aws-iam-role/tflint.yaml?branch=main&style=plastic)
 
 This module implements a module to create roles and easily define trust relationships.
 
